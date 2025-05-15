@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/rakshitavala223/Sample/_apis/build/status%2FRakshDevo.mslearn-tailspin-spacegame-web%20(2)?branchName=main)](https://dev.azure.com/rakshitavala223/Sample/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
